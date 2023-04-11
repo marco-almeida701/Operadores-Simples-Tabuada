@@ -45,3 +45,6 @@ footer{
     text-align: right;
     font: normal 20pt italic;
 }
+.but input[type="button"]{
+    background-color:brown;
+}
